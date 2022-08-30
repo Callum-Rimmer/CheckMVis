@@ -2,7 +2,7 @@
 
 **This repository contains an R script which will process the output from CheckM and produce a variety of graphs.**
 
-You can access CheckM from this link: https://github.com/Ecogenomics/CheckM\
+You can access CheckM from this link: https://github.com/Ecogenomics/CheckM \
 Please remember to cite the authors of CheckM.
 
 ### Pre-requisities:
